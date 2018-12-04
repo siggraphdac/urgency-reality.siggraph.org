@@ -6,5 +6,5 @@
 - Then visit http://127.0.0.1:8080 in your web browser.
 
 ## Notes
-- The site usese the Origins WordPress theme also developed by SIGGRAPH DAC found here: https://github.com/siggraphdac/OrangeJuice-WordPress-Theme. 
+- The site usese the OrangeJuice WordPress theme also developed by SIGGRAPH DAC found here: https://github.com/siggraphdac/OrangeJuice. 
 - Internal notes and to do items listed here: https://docs.google.com/document/d/1IMRF1XfDLJqLX4J_1wdVk1EityKMmjjPPWJ3yidv6fQ.
